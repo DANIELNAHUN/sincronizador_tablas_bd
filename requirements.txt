@@ -1,0 +1,5 @@
+sqlalchemy
+pandas
+python-dotenv
+hypothesis[pytest]
+pytest
